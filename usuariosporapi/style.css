@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    color: #9400D3;
+}
+
+#logo-kinghost {
+    width: 150px;
+    margin-top: 3px;
+}
+
+h2 {
+    margin-top: 40px;
+    color: #333;
+}
+
+#base-usuarios {
+    width: 100%;
+    max-width: 600px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: left;
+    width: 100%;
+    margin: 0 auto;
+}
+
+li {
+    background: #f0f0f0;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 0.9rem;
+}
